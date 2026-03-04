@@ -1,4 +1,3 @@
-
 let coinFlip;
 let flips = parseInt(prompt("How many times would you like to flip the coin?"));
 for (let i = 0; i < flips; i++) {
